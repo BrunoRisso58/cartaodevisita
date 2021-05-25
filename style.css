@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+}
+
+#container{
+    width: 400px;
+    height: 200px;
+    background-image: url("Modelo/backgorund.png");
+    background-size: cover;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 29px;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    margin-top: -18px;
+    padding-left: 25px;
+}
+
+li{
+    margin: 10px;
+    margin-left: 0px;
+    margin-top: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+#instagram{
+    list-style-image: url("Modelo/instagram.png");
+}
+
+#whatsapp{
+    list-style-image: url("Modelo/whatsapp.png");
+}
+
+#gmail{
+    list-style-image: url("Modelo/gmail.png");
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(48, 48, 48);
+}
